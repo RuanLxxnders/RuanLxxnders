@@ -1,6 +1,7 @@
 # 💫 About Me:
 👋 Hi, I’m Ruan Leenders!<br>💻 I love building digital experiences with Framer.<br>📚 Always learning more from Udemy & YouTube.<br>🚀 Currently diving into Flutter to land an internship.<br>🎯 Passionate about growth, tech, and new challenges!<br>🎬 Currently working on engineering a Netflix clone.<br><br>
 
+![Untitled design](https://github.com/user-attachments/assets/f692d2a4-c281-4c77-8b14-1df3bfd955c5)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/RuanLeenders) 
