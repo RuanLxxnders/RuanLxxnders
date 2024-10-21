@@ -1,5 +1,7 @@
 # 💫 About Me:
 👋 Hi, I’m Ruan Leenders!<br>💻 I love building digital experiences with Framer.<br>📚 Always learning more from Udemy & YouTube.<br>🚀 Currently coding.<br>🎯 Passionate about growth, tech, and new challenges!<br>🎬 Currently working on engineering a Netflix clone.<br><br>
+# 💫 Secret Me:
+🐧 About Me – Penguin of Programming<br>Hey, I'm Ruan Leenders, also known as the Penguin of Programming. You know the Penguin from the 2024 Gotham show? Well, instead of plotting crime in Gotham's underworld, I’m navigating the gritty streets of web development, fighting off bugs and glitches like a coding kingpin. 🐧💻<br><br>I’ve got a passion for building awesome things, with a focus on Backend and Frontend development. When I'm not ruling my digital empire, I’m knee-deep in code, scheming up creative ways to make the web a little more awesome (or chaotic).<br><br>Started coding: 3 years ago, breaking into the world of frontend like the Penguin rises in Gotham 🏙️<br>Current obsession: Making apps/websites as smooth as Penguin's plans—using Framer and Figma<br>Dream setup: To one day reign supreme over a multi-monitor dev rig, all running smooth on Linux 🐧<br>When I’m not battling error messages, I’m plotting my next move in the world of web design—turning ideas into sleek, responsive apps. And yeah, no umbrellas needed here! ☂️<br><br>
 
 ![Untitled designkjnjk](https://github.com/user-attachments/assets/0a8f878d-6a3e-4912-b829-9e044abf7b7b)
 
